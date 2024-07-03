@@ -1,6 +1,6 @@
 Nombre del proyecto: Biblioteca pública Viva la Libertad
 <hr>
-(https://camo.githubusercontent.com/ba4c9e282f72d329ef4584c766260921ed442e6c3231183ba44062f9469e3b56/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e77656270)
+![Logo](https://camo.githubusercontent.com/ba4c9e282f72d329ef4584c766260921ed442e6c3231183ba44062f9469e3b56/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e77656270)
 <hr>
  Lenguajes de programación y tecnologías empleadas en el desarrollo del proyecto
 🔥 Python
@@ -25,15 +25,15 @@ Cada función está integrada en una interfaz gráfica de usuario (GUI) utilizan
 Librerías necesarias para correr el programa, ejecutando main.py
 Reportlab,Ujson y Tkcalendar,se pueden instalar con la siguiente línea en la consola --> pip install reportlab ujson tkcalendar
 <hr>
-(otros/Screenshot_1.png)
-(otros/Screenshot_2.png)
-(otros/Screenshot_3.png)
-(otros/Screenshot_4.png)
-(otros/Screenshot_5.png)
-(otros/Screenshot_6.png)
-(otros/Screenshot_7.png)
-(otros/Screenshot_8.png)
-(otros/Screenshot_9.png)
-(otros/Screenshot_10.png)
-(otros/Screenshot_11.png)
-(otros/Screenshot_12.png)
+![Logo](otros/Screenshot_1.png)
+![Logo](otros/Screenshot_2.png)
+![Logo](otros/Screenshot_3.png)
+![Logo](otros/Screenshot_4.png)
+![Logo](otros/Screenshot_5.png)
+![Logo](otros/Screenshot_6.png)
+![Logo](otros/Screenshot_7.png)
+![Logo](otros/Screenshot_8.png)
+![Logo](otros/Screenshot_9.png)
+![Logo](otros/Screenshot_10.png)
+![Logo](otros/Screenshot_11.png)
+![Logo](otros/Screenshot_12.png)
