@@ -1,3 +1,6 @@
+![Logo](otros/Screenshot_1.png)
+
+
 Conjunto completo de funciones y la interfaz gráfica para administrar una biblioteca. 
 
 1. Búsqueda de Libros: Permite buscar libros por título, autor o género.
