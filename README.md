@@ -1,5 +1,15 @@
 ![Logo](otros/Screenshot_1.png)
-
+![Logo](otros/Screenshot_2.png)
+![Logo](otros/Screenshot_3.png)
+![Logo](otros/Screenshot_4.png)
+![Logo](otros/Screenshot_5.png)
+![Logo](otros/Screenshot_6.png)
+![Logo](otros/Screenshot_7.png)
+![Logo](otros/Screenshot_8.png)
+![Logo](otros/Screenshot_9.png)
+![Logo](otros/Screenshot_10.png)
+![Logo](otros/Screenshot_11.png)
+![Logo](otros/Screenshot_12.png)
 
 Conjunto completo de funciones y la interfaz gráfica para administrar una biblioteca. 
 
