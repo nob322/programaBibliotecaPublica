@@ -1,0 +1,353 @@
+[
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "editorial": "Francisco de Robles",
+        "año_de_publicación": 1605,
+        "genero": "Novela",
+        "cantidad_disponible": 150,
+        "id_libro": 1
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "editorial": "T. Egerton",
+        "año_de_publicación": 1813,
+        "genero": "Novela",
+        "cantidad_disponible": "200",
+        "id_libro": 2
+    },
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "editorial": "Sudamericana",
+        "año_de_publicación": 1967,
+        "genero": "Realismo mágico",
+        "cantidad_disponible": "180",
+        "id_libro": 3
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "editorial": "J.B. Lippincott & Co.",
+        "año_de_publicación": 1960,
+        "genero": "Novela",
+        "cantidad_disponible": "210",
+        "id_libro": 4
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "editorial": "Secker & Warburg",
+        "año_de_publicación": 1949,
+        "genero": "Distopía",
+        "cantidad_disponible": "250",
+        "id_libro": 5
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "editorial": "Charles Scribner's Sons",
+        "año_de_publicación": 1925,
+        "genero": "Novela",
+        "cantidad_disponible": "170",
+        "id_libro": 6
+    },
+    {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "editorial": "Grasset",
+        "año_de_publicación": 1913,
+        "genero": "Novela",
+        "cantidad_disponible": "120",
+        "id_libro": 7
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "editorial": "Shakespeare and Company",
+        "año_de_publicación": 1922,
+        "genero": "Novela",
+        "cantidad_disponible": "140",
+        "id_libro": 8
+    },
+    {
+        "titulo": "El Señor de los Anillos",
+        "autor": "J.R.R. Tolkien",
+        "editorial": "Allen & Unwin",
+        "año_de_publicación": 1954,
+        "genero": "Fantasía",
+        "cantidad_disponible": "300",
+        "id_libro": 9
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fiódor Dostoyevski",
+        "editorial": "The Russian Messenger",
+        "año_de_publicación": 1866,
+        "genero": "Novela",
+        "cantidad_disponible": "130",
+        "id_libro": 10
+    },
+    {
+        "titulo": "Las aventuras de Huckleberry Finn",
+        "autor": "Mark Twain",
+        "editorial": "Chatto & Windus \/ Charles L. Webster And Company",
+        "año_de_publicación": 1884,
+        "genero": "Novela",
+        "cantidad_disponible": "160",
+        "id_libro": 11
+    },
+    {
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "editorial": "Desconocida",
+        "año_de_publicación": -800,
+        "genero": "Épica",
+        "cantidad_disponible": "100",
+        "id_libro": 13
+    },
+    {
+        "titulo": "La Ilíada",
+        "autor": "Homero",
+        "editorial": "Desconocida",
+        "año_de_publicación": -750,
+        "genero": "Épica",
+        "cantidad_disponible": "100",
+        "id_libro": 14
+    },
+    {
+        "titulo": "La Divina Comedia",
+        "autor": "Dante Alighieri",
+        "editorial": "Nicolò di Lorenzo della Magna",
+        "año_de_publicación": 1320,
+        "genero": "Poesía épica",
+        "cantidad_disponible": "110",
+        "id_libro": 15
+    },
+    {
+        "titulo": "Madame Bovary",
+        "autor": "Gustave Flaubert",
+        "editorial": "Revue de Paris",
+        "año_de_publicación": 1857,
+        "genero": "Novela",
+        "cantidad_disponible": "140",
+        "id_libro": 16
+    },
+    {
+        "titulo": "Jane Eyre",
+        "autor": "Charlotte Brontë",
+        "editorial": "Smith, Elder & Co.",
+        "año_de_publicación": 1847,
+        "genero": "Novela",
+        "cantidad_disponible": "170",
+        "id_libro": 17
+    },
+    {
+        "titulo": "Moby-Dick",
+        "autor": "Herman Melville",
+        "editorial": "Harper & Brothers",
+        "año_de_publicación": 1851,
+        "genero": "Novela",
+        "cantidad_disponible": "160",
+        "id_libro": 18
+    },
+    {
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "editorial": "Desconocida",
+        "año_de_publicación": 1603,
+        "genero": "Tragedia",
+        "cantidad_disponible": "220",
+        "id_libro": 19
+    },
+    {
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "editorial": "Ward, Lock & Co.",
+        "año_de_publicación": 1890,
+        "genero": "Novela",
+        "cantidad_disponible": "150",
+        "id_libro": 20
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "editorial": "Kurt Wolff Verlag",
+        "año_de_publicación": 1915,
+        "genero": "Novela",
+        "cantidad_disponible": 2,
+        "id_libro": 21
+    },
+    {
+        "titulo": "Los miserables",
+        "autor": "Victor Hugo",
+        "editorial": "A. Lacroix, Verboeckhoven & Cie",
+        "año_de_publicación": 1862,
+        "genero": "Novela",
+        "cantidad_disponible": 2,
+        "id_libro": 22
+    },
+    {
+        "titulo": "Anna Karenina",
+        "autor": "Leo Tolstoy",
+        "editorial": "The Russian Messenger",
+        "año_de_publicación": 1877,
+        "genero": "Novela",
+        "cantidad_disponible": 3,
+        "id_libro": 23
+    },
+    {
+        "titulo": "Las aventuras de Tom Sawyer",
+        "autor": "Mark Twain",
+        "editorial": "Chatto & Windus",
+        "año_de_publicación": 1876,
+        "genero": "Novela",
+        "cantidad_disponible": 3,
+        "id_libro": 24
+    },
+    {
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "editorial": "Reynal & Hitchcock",
+        "año_de_publicación": 1943,
+        "genero": "Literatura infantil",
+        "cantidad_disponible": 2,
+        "id_libro": 25
+    },
+    {
+        "titulo": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "editorial": "William Morrow and Company",
+        "año_de_publicación": 1989,
+        "genero": "Histórica",
+        "cantidad_disponible": 3,
+        "id_libro": 26
+    },
+    {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "editorial": "Planeta",
+        "año_de_publicación": 2001,
+        "genero": "Misterio",
+        "cantidad_disponible": 3,
+        "id_libro": 27
+    },
+    {
+        "titulo": "El alquimista",
+        "autor": "Paulo Coelho",
+        "editorial": "HarperTorch",
+        "año_de_publicación": 1988,
+        "genero": "Ficción",
+        "cantidad_disponible": 4,
+        "id_libro": 28
+    },
+    {
+        "titulo": "La casa de los espíritus",
+        "autor": "Isabel Allende",
+        "editorial": "Plaza & Janés",
+        "año_de_publicación": 1982,
+        "genero": "Realismo mágico",
+        "cantidad_disponible": 2,
+        "id_libro": 29
+    },
+    {
+        "titulo": "Crónica de una muerte anunciada",
+        "autor": "Gabriel García Márquez",
+        "editorial": "Oveja Negra",
+        "año_de_publicación": 1981,
+        "genero": "Ficción",
+        "cantidad_disponible": 3,
+        "id_libro": 30
+    },
+    {
+        "titulo": "Cumbres borrascosas",
+        "autor": "Emily Brontë",
+        "editorial": "Thomas Cautley Newby",
+        "año_de_publicación": 1847,
+        "genero": "Gótica",
+        "cantidad_disponible": 2,
+        "id_libro": 31
+    },
+    {
+        "titulo": "El nombre de la rosa",
+        "autor": "Umberto Eco",
+        "editorial": "Bompiani",
+        "año_de_publicación": 1980,
+        "genero": "Misterio",
+        "cantidad_disponible": 3,
+        "id_libro": 32
+    },
+    {
+        "titulo": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "editorial": "Secker & Warburg",
+        "año_de_publicación": 1945,
+        "genero": "Distopía",
+        "cantidad_disponible": 4,
+        "id_libro": 33
+    },
+    {
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "editorial": "Archibald Constable and Company",
+        "año_de_publicación": 1897,
+        "genero": "Horror",
+        "cantidad_disponible": 3,
+        "id_libro": 34
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "editorial": "Lackington, Hughes, Harding, Mavor & Jones",
+        "año_de_publicación": 1818,
+        "genero": "Ciencia ficción",
+        "cantidad_disponible": 2,
+        "id_libro": 35
+    },
+    {
+        "titulo": "Las mil y una noches",
+        "autor": "Anónimo",
+        "editorial": "Alfaguara",
+        "año_de_publicación": 1704,
+        "genero": "Cuentos",
+        "cantidad_disponible": 4,
+        "id_libro": 36
+    },
+    {
+        "titulo": "Los miserables",
+        "autor": "Victor Hugo",
+        "editorial": "A. Lacroix, Verboeckhoven & Cie",
+        "año_de_publicación": 1862,
+        "genero": "Histórico",
+        "cantidad_disponible": 3,
+        "id_libro": 37
+    },
+    {
+        "titulo": "Fausto",
+        "autor": "Johann Wolfgang von Goethe",
+        "editorial": "Cotta'sche Verlagsbuchhandlung",
+        "año_de_publicación": 1808,
+        "genero": "Tragedia",
+        "cantidad_disponible": 2,
+        "id_libro": 38
+    },
+    {
+        "titulo": "Las aventuras de Huckleberry Finn",
+        "autor": "Mark Twain",
+        "editorial": "Chatto & Windus \/ Charles L. Webster And Company",
+        "año_de_publicación": 1884,
+        "genero": "Aventura",
+        "cantidad_disponible": 5,
+        "id_libro": 39
+    },
+    {
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "editorial": "Editorial Sudamericana",
+        "año_de_publicación": 1963,
+        "genero": "Ficción",
+        "cantidad_disponible": 14,
+        "id_libro": 40
+    }
+]

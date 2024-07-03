@@ -1,0 +1,362 @@
+[
+    {
+        "nombre": "Carlos",
+        "apellido": "López",
+        "fecha_de_nacimiento": "1980-03-25",
+        "dirección": "Calle 9 de Julio 456",
+        "correo_electrónico": "carlos.lopez@example.com",
+        "teléfono": "456-7890",
+        "id_socio": 1
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "fecha_de_nacimiento": "1990-11-15",
+        "dirección": "Calle siempre viva 123",
+        "correo_electrónico": "anita@example.com",
+        "teléfono": "156-7890",
+        "id_socio": 2
+    },
+    {
+        "nombre": "David",
+        "apellido": "Tolosa",
+        "fecha_de_nacimiento": "1990-11-15",
+        "dirección": "Avenida Corrientes 1234",
+        "correo_electrónico": "david.tolosa@example.com",
+        "teléfono": "123-9876",
+        "id_socio": 3
+    },
+    {
+        "nombre": "David",
+        "apellido": "Racha",
+        "fecha_de_nacimiento": "1999-11-15",
+        "dirección": "Avenida Corrientes 1234",
+        "correo_electrónico": "david.racha@example.com",
+        "teléfono": "123-9875",
+        "id_socio": 4
+    },
+    {
+        "nombre": "David",
+        "apellido": "Tils",
+        "fecha_de_nacimiento": "2001-11-15",
+        "dirección": "Avenida Corrientes 1234",
+        "correo_electrónico": "david.tils@example.com",
+        "teléfono": "123-9835",
+        "id_socio": 5
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Gómez",
+        "fecha_de_nacimiento": "1985-05-12",
+        "dirección": "Calle Mendoza 567",
+        "correo_electrónico": "laura.gomez@example.com",
+        "teléfono": "789-1234",
+        "id_socio": 6
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Pérez",
+        "fecha_de_nacimiento": "1978-07-19",
+        "dirección": "Calle San Martín 789",
+        "correo_electrónico": "pedro.perez@example.com",
+        "teléfono": "234-5678",
+        "id_socio": 7
+    },
+    {
+        "nombre": "Marta",
+        "apellido": "Luna",
+        "fecha_de_nacimiento": "1992-09-23",
+        "dirección": "Calle Belgrano 101",
+        "correo_electrónico": "marta.luna@example.com",
+        "teléfono": "678-1234",
+        "id_socio": 8
+    },
+    {
+        "nombre": "Jorge",
+        "apellido": "Díaz",
+        "fecha_de_nacimiento": "1983-11-04",
+        "dirección": "Avenida Mitre 102",
+        "correo_electrónico": "jorge.diaz@example.com",
+        "teléfono": "345-6789",
+        "id_socio": 9
+    },
+    {
+        "nombre": "Sofía",
+        "apellido": "Fernández",
+        "fecha_de_nacimiento": "1996-03-14",
+        "dirección": "Calle Rivadavia 345",
+        "correo_electrónico": "sofia.fernandez@example.com",
+        "teléfono": "890-1234",
+        "id_socio": 10
+    },
+    {
+        "nombre": "Gabriel",
+        "apellido": "Morales",
+        "fecha_de_nacimiento": "1982-08-09",
+        "dirección": "Calle Salta 678",
+        "correo_electrónico": "gabriel.morales@example.com",
+        "teléfono": "456-7891",
+        "id_socio": 11
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Ramírez",
+        "fecha_de_nacimiento": "1989-02-18",
+        "dirección": "Calle Catamarca 901",
+        "correo_electrónico": "lucia.ramirez@example.com",
+        "teléfono": "567-8901",
+        "id_socio": 12
+    },
+    {
+        "nombre": "Ariel",
+        "apellido": "Tolosa",
+        "fecha_de_nacimiento": "2000-02-05",
+        "dirección": "Laprida 1420",
+        "correo_electrónico": "ariel.tolosa@example.com",
+        "teléfono": "451-4785",
+        "id_socio": 13
+    },
+    {
+        "nombre": "María",
+        "apellido": "García",
+        "fecha_de_nacimiento": "1987-06-17",
+        "dirección": "Calle Defensa 333",
+        "correo_electrónico": "maria.garcia@example.com",
+        "teléfono": "567-8902",
+        "id_socio": 14
+    },
+    {
+        "nombre": "Tomás",
+        "apellido": "Rodríguez",
+        "fecha_de_nacimiento": "1994-10-20",
+        "dirección": "Avenida Santa Fe 456",
+        "correo_electrónico": "tomas.rodriguez@example.com",
+        "teléfono": "234-5679",
+        "id_socio": 15
+    },
+    {
+        "nombre": "Julia",
+        "apellido": "Pérez",
+        "fecha_de_nacimiento": "1986-04-12",
+        "dirección": "Calle La Rioja 789",
+        "correo_electrónico": "julia.perez@example.com",
+        "teléfono": "678-3456",
+        "id_socio": 16
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Fernández",
+        "fecha_de_nacimiento": "1993-11-03",
+        "dirección": "Avenida Belgrano 234",
+        "correo_electrónico": "ricardo.fernandez@example.com",
+        "teléfono": "345-6780",
+        "id_socio": 17
+    },
+    {
+        "nombre": "Natalia",
+        "apellido": "López",
+        "fecha_de_nacimiento": "1988-12-24",
+        "dirección": "Calle Entre Ríos 456",
+        "correo_electrónico": "natalia.lopez@example.com",
+        "teléfono": "890-5678",
+        "id_socio": 18
+    },
+    {
+        "nombre": "Gustavo",
+        "apellido": "Martínez",
+        "fecha_de_nacimiento": "1981-09-09",
+        "dirección": "Avenida Libertador 321",
+        "correo_electrónico": "gustavo.martinez@example.com",
+        "teléfono": "456-7892",
+        "id_socio": 19
+    },
+    {
+        "nombre": "Lorena",
+        "apellido": "Gómez",
+        "fecha_de_nacimiento": "1995-02-07",
+        "dirección": "Calle Moreno 654",
+        "correo_electrónico": "lorena.gomez@example.com",
+        "teléfono": "234-8901",
+        "id_socio": 20
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Vázquez",
+        "fecha_de_nacimiento": "1984-08-25",
+        "dirección": "Calle Reconquista 987",
+        "correo_electrónico": "pablo.vazquez@example.com",
+        "teléfono": "678-9012",
+        "id_socio": 21
+    },
+    {
+        "nombre": "Carla",
+        "apellido": "Duarte",
+        "fecha_de_nacimiento": "1991-07-13",
+        "dirección": "Calle Alsina 123",
+        "correo_electrónico": "carla.duarte@example.com",
+        "teléfono": "345-6783",
+        "id_socio": 22
+    },
+    {
+        "nombre": "Martín",
+        "apellido": "Hernández",
+        "fecha_de_nacimiento": "1989-01-16",
+        "dirección": "Avenida de Mayo 456",
+        "correo_electrónico": "martin.hernandez@example.com",
+        "teléfono": "890-3456",
+        "id_socio": 23
+    },
+    {
+        "nombre": "Andrea",
+        "apellido": "Ruiz",
+        "fecha_de_nacimiento": "1997-06-05",
+        "dirección": "Calle Junín 789",
+        "correo_electrónico": "andrea.ruiz@example.com",
+        "teléfono": "567-9012",
+        "id_socio": 24
+    },
+    {
+        "nombre": "Hernán",
+        "apellido": "Giménez",
+        "fecha_de_nacimiento": "1987-03-28",
+        "dirección": "Calle Pellegrini 234",
+        "correo_electrónico": "hernan.gimenez@example.com",
+        "teléfono": "123-4567",
+        "id_socio": 25
+    },
+    {
+        "nombre": "Valeria",
+        "apellido": "Sánchez",
+        "fecha_de_nacimiento": "1998-09-14",
+        "dirección": "Avenida Rivadavia 567",
+        "correo_electrónico": "valeria.sanchez@example.com",
+        "teléfono": "456-7893",
+        "id_socio": 26
+    },
+    {
+        "nombre": "Eduardo",
+        "apellido": "Acosta",
+        "fecha_de_nacimiento": "1985-05-20",
+        "dirección": "Calle Sarmiento 890",
+        "correo_electrónico": "eduardo.acosta@example.com",
+        "teléfono": "789-2345",
+        "id_socio": 27
+    },
+    {
+        "nombre": "Carolina",
+        "apellido": "Mendoza",
+        "fecha_de_nacimiento": "1990-12-03",
+        "dirección": "Avenida 9 de Julio 1234",
+        "correo_electrónico": "carolina.mendoza@example.com",
+        "teléfono": "234-5670",
+        "id_socio": 28
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Castro",
+        "fecha_de_nacimiento": "1984-02-09",
+        "dirección": "Calle Tacuarí 567",
+        "correo_electrónico": "luis.castro@example.com",
+        "teléfono": "567-8903",
+        "id_socio": 29
+    },
+    {
+        "nombre": "Silvia",
+        "apellido": "Ortega",
+        "fecha_de_nacimiento": "1986-07-21",
+        "dirección": "Avenida San Juan 890",
+        "correo_electrónico": "silvia.ortega@example.com",
+        "teléfono": "890-1235",
+        "id_socio": 30
+    },
+    {
+        "nombre": "Facundo",
+        "apellido": "Moreno",
+        "fecha_de_nacimiento": "1993-04-18",
+        "dirección": "Calle Azcuénaga 234",
+        "correo_electrónico": "facundo.moreno@example.com",
+        "teléfono": "123-4568",
+        "id_socio": 31
+    },
+    {
+        "nombre": "Cecilia",
+        "apellido": "Gutiérrez",
+        "fecha_de_nacimiento": "1988-11-10",
+        "dirección": "Avenida Callao 567",
+        "correo_electrónico": "cecilia.gutierrez@example.com",
+        "teléfono": "456-7894",
+        "id_socio": 32
+    },
+    {
+        "nombre": "Marcos",
+        "apellido": "López",
+        "fecha_de_nacimiento": "1995-08-27",
+        "dirección": "Calle Lavalle 123",
+        "correo_electrónico": "marcos.lopez@example.com",
+        "teléfono": "789-2345",
+        "id_socio": 33
+    },
+    {
+        "nombre": "Camila",
+        "apellido": "Suárez",
+        "fecha_de_nacimiento": "1992-01-30",
+        "dirección": "Avenida Corrientes 567",
+        "correo_electrónico": "camila.suarez@example.com",
+        "teléfono": "234-5671",
+        "id_socio": 34
+    },
+    {
+        "nombre": "Matías",
+        "apellido": "Medina",
+        "fecha_de_nacimiento": "1983-06-28",
+        "dirección": "Calle Balcarce 890",
+        "correo_electrónico": "matias.medina@example.com",
+        "teléfono": "567-8904",
+        "id_socio": 35
+    },
+    {
+        "nombre": "Victoria",
+        "apellido": "Castro",
+        "fecha_de_nacimiento": "1987-09-05",
+        "dirección": "Avenida Belgrano 890",
+        "correo_electrónico": "victoria.castro@example.com",
+        "teléfono": "890-1236",
+        "id_socio": 36
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Álvarez",
+        "fecha_de_nacimiento": "1984-12-12",
+        "dirección": "Calle Moreno 567",
+        "correo_electrónico": "diego.alvarez@example.com",
+        "teléfono": "123-4569",
+        "id_socio": 37
+    },
+    {
+        "nombre": "Gabriela",
+        "apellido": "Romero",
+        "fecha_de_nacimiento": "1991-03-08",
+        "dirección": "Avenida Entre Ríos 123",
+        "correo_electrónico": "gabriela.romero@example.com",
+        "teléfono": "456-7895",
+        "id_socio": 38
+    },
+    {
+        "nombre": "Federico",
+        "apellido": "Herrera",
+        "fecha_de_nacimiento": "1996-10-15",
+        "dirección": "Calle Montevideo 456",
+        "correo_electrónico": "federico.herrera@example.com",
+        "teléfono": "789-2346",
+        "id_socio": 39
+    },
+    {
+        "nombre": "Romina",
+        "apellido": "Suárez",
+        "fecha_de_nacimiento": "1989-05-23",
+        "dirección": "Avenida Pueyrredón 789",
+        "correo_electrónico": "romina.suarez@example.com",
+        "teléfono": "234-5672",
+        "id_socio": 40
+    }
+]
