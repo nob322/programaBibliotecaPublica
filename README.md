@@ -28,31 +28,3 @@ Conjunto completo de funciones y la interfaz gráfica para administrar una bibli
 13. Registro de Devoluciones: Permite registrar la devolución de libros prestados.
 
 Cada función está integrada en una interfaz gráfica de usuario (GUI) utilizando Tkinter, y proporciona una forma interactiva y visualmente atractiva de interactuar con la base de datos de la biblioteca. 
-
-Estructura del proyecto ..... proximamente a escalar intentaremos modularizar en la siguente estructura
-
-biblioteca/
-│
-├── data/
-│   ├── frases.json
-│   ├── libros.json
-│   ├── prestamos.json
-│   ├── socios.json
-│
-├── img/
-│   ├── ico.png
-│   ├── logo.png
-│ 
-│  
-├── src/
-│   ├── gestion_libros.py
-│   ├── gestion_prestamos.py
-│   ├── gestion_socios.py
-│   ├── interfaz.py
-│
-├── otros
-│   ├── logo.psd
-│   ├── requisitos.pdf
-│
-└──README.md
-
